@@ -7,7 +7,7 @@ The player flips one card over to reveal its underlying symbol.
 The player then turns over a second card, trying to find the corresponding card with the same symbol.
 If the cards match, both cards stay flipped over.
 If the cards do not match, both cards are flipped face down.
-The game ends once all cards have been correctly matched.And The player has the right to make only ten wrong elections. The tenth of the wrong election loses the player.
+The game ends once all cards have been correctly matched.And The player has the right to make only thirty wrong flips. The thirty of the wrong flips loses the player.
 
 #constants 
 
