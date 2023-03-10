@@ -24,12 +24,13 @@ The game ends once all cards have been correctly matched.
 ## Screenshots
 
 **Start up screen:**
-[](https://yasminkrh.github.io/Concentration-Memory-Game-/)
+
+![](img/Screenshot%202023-03-10%20at%209.35.36%20AM.png)
 
 
 **Won screen:**
 
-[](https://yasminkrh.github.io/Concentration-Memory-Game-/)
+![](img/Screenshot%202023-03-10%20at%209.36.24%20AM.png)
 
 
 
