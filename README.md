@@ -18,6 +18,8 @@ The game ends once all cards have been correctly matched.
 3.1.when player picks 2 cards,need to check if they are the some.
 3.2.if 2 cards that we are maching are the same we will updated score.
 3.3. if they arent we will have to update the card pair 
+#### Link
+Click it! https://yasminkrh.github.io/Concentration-Memory-Game-/
 
 ## Screenshots
 
