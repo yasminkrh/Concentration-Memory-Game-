@@ -1,7 +1,11 @@
 # Concentration-Memory-Dollar-match-
 ## Description
 This is a browser-based memory game created using Javascript.
-The game board consists of twelve"cards" arranged in a grid. The game board is made up of six different pairs of cards, each with different img on one side. The cards are arranged randomly on the grid. The gameplay rules : flip over two hidden cards at a time to locate the ones that match.
+The game board consists of twelve"cards" arranged in a grid. The game board is made up of six different pairs of cards, each with different img on one side. The cards are arranged randomly on the grid. 
+
+#### The gameplay rules : 
+
+flip over two hidden cards at a time to locate the ones that match.
 
 At each turn:
 The player flips one card over to reveal its underlying image.
